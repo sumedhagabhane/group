@@ -10,6 +10,9 @@ int main() {
 
     sum = num1 + num2;
     cout << "The sum of " << num1 << " and " << num2 << " is " << sum << "." << endl;
+    hsdjckhgdsghdgsdsihvjksdh
+status
 
     return 0;
 }
+k
